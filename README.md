@@ -47,7 +47,20 @@ Here are some ideas to get you started:
   
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuxQsyds9a8mEaqrjxLlKjVMKaHOm3LYEcRfzj-A9PTpCvni92OcPVaH6KTcMd0_uatLo&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkLZhJut6OVquKwmikbnwxXgde7dHeFuvnOCiMUU7vcA&s" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  
+  
+<img src="https://www.kali.org/tools/medusa/images/medusa-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://pbs.twimg.com/media/DA_v2edXcAENjun.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://www.kali.org/tools/rkhunter/images/rkhunter-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
  
 
