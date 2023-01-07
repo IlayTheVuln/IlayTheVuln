@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://seeklogo.com/images/K/kali-linux-logo-AED181186E-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
 <img src="https://ih1.redbubble.net/image.65324537.3912/flat,750x1000,075,f.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/12/Nmap-Ethical-Hacking-Tools-Edureka.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
