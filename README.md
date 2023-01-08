@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   
   <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
-<img src="https://d23vnjd1yg7tth.cloudfront.net/wp-content/uploads/2021/12/Picture2.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://www.kali.org/tools/hydra/" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
