@@ -25,8 +25,12 @@ Here are some ideas to get you started:
   
 <img src="https://ih1.redbubble.net/image.65324537.3912/flat,750x1000,075,f.jpg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   
+  <img src="https://www.os2world.com/wiki/images/b/bc/Dosbox_logo.gif" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/12/Nmap-Ethical-Hacking-Tools-Edureka.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
  
+   <img src="https://assets.labs.ine.com/web/badges/low/WINDBG.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
   <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
   <img src="https://www.kali.org/tools/dmitry/images/dmitry-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
