@@ -39,7 +39,7 @@ Here are some ideas to get you started:
   
 <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
- <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://kellgon.com/wp-content/uploads/2019/03/John-the-Ripper-Logo.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
