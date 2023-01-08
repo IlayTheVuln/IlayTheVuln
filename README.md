@@ -1,6 +1,5 @@
 ### Hi there! I'm Ilay Samuelov 👋
-A c and assembly lover who is passionate about osnit, vulnarbility researching, wh hacking and malware development!
-The biggest fan of @gentilwiki!!
+A c and assembly lover who is passionate about osnit, vulnarbility researching, wh hacking and malware development! The biggest fan of @gentilwiki!!
 
 <!--
 **IlayTheVuln/IlayTheVuln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
