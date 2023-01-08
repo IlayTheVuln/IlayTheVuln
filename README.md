@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
  <img src="https://www.kali.org/tools/john/images/john-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
- <img src="https://www.kali.org/tools/hydra/" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
