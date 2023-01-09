@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on **My DigitalWhisper article**
 
-- 🌱 I’m currently learning **Writing kernel mode rootlets and looking forward to learn deeply the XNU kernel(iOS kernel)**
+- 🌱 I’m currently learning **Writing kernel mode rootkits and looking forward to learn deeply the XNU kernel(iOS kernel)**
 
 - 💬 Ask me about **PE Format, malware analysis, vulnerability researching and any low level attack you'd like to!**
 
