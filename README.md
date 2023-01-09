@@ -18,6 +18,11 @@ Here are some ideas to get you started:
 -->
 ## 🧰 Languages and Tools:
 <p align="center">
+ <img src="https://assets.labs.ine.com/web/badges/low/WINDBG.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
+  <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -32,7 +37,7 @@ Here are some ideas to get you started:
   
 <img src="https://www.edureka.co/blog/wp-content/uploads/2018/12/Nmap-Ethical-Hacking-Tools-Edureka.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
  
-   <img src="https://assets.labs.ine.com/web/badges/low/WINDBG.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+  
   
   <img src="https://www.kali.org/tools/spiderfoot/images/spiderfoot-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
@@ -44,7 +49,7 @@ Here are some ideas to get you started:
   
   <img src="https://www.kali.org/tools/wfuzz/images/wfuzz-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
  
-   <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+ 
  
   
   
@@ -54,7 +59,7 @@ Here are some ideas to get you started:
 
  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
- <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+
   
 <img src="https://i0.wp.com/cybr.com/wp-content/uploads/2020/06/ettercap-logo.jpg?fit=1000%2C323&ssl=1" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
