@@ -16,11 +16,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Ilay Samuelov</h1>
+<h3 align="center">A c and assembly lover who is passionate about Osnit research, Vulnerability researching, malware analysis, white hat hacking and malware development</h3>
+
+- 🔭 I'm currently working on **My DigitalWhisper article**
+
+- 🌱 I’m currently learning **Writing kernel mode rootlets and looking forward to learn deeply the XNU kernel(iOS kernel)**
+
+- 💬 Ask me about **PE Format, malware analysis, vulnerability researching and any low level attack you'd like to!**
+
+- 📫 How to reach me **ilaysam00@gmail.com**
+
+- ⚡ Fun fact **I pretty love math and physics too!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 ## 🧰 Languages and Tools:
 <p align="center">
+ <img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://assets.labs.ine.com/web/badges/low/WINDBG.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   <img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-  
+   
+
+
   <img src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -52,9 +73,7 @@ Here are some ideas to get you started:
  
  
   
-  
-<img src="https://play-lh.googleusercontent.com/YrY5n418F1joskaaIE1ou8991mmdEaTR66Mr8fHwuRGIkE9ZSnHeiJc-BcUoeU4dhNZl" alt="Python" height="40" style="vertical-align:top; margin:4px">
-
+ 
  <img src="https://kellgon.com/wp-content/uploads/2019/03/John-the-Ripper-Logo.jpg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
@@ -91,6 +110,6 @@ Here are some ideas to get you started:
   <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
   
   <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-
+##
  
 
