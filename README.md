@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi There 👋, I'm Ilay Samuelov</h1>
-<h3 align="center">A c and assembly lover who is passionate about Osnit research, Vulnerability researching, malware analysis, white hat hacking and malware development</h3>
+<h3 align="center">A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development</h3>
 
 - 🔭 I'm currently working on **My DigitalWhisper article**
 
