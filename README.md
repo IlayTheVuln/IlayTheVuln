@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Writing kernel mode rootkits and looking forward to learn deeply the XNU kernel(iOS kernel)**
 
-- 💬 Ask me about **PE Format, malware analysis, vulnerability researching and any low level attack you'd like to!**
+- 💬 Ask me about **PE Format, malware analysis and development, assembly any low level attack you'd like to!**
 
 - 📫 How to reach me **ilaysam00@gmail.com**
 
