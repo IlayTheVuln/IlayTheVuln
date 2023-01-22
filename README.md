@@ -16,17 +16,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi There 👋, I'm Ilay Samuelov</h1>
 <h3 align="center">A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development</h3>
-- ⚡ A secret Refernce: http://www.iquerfsodp9ifjaposdfjhgosurijfaewrwergwea.com
-- 🔭 I'm currently working on **My DigitalWhisper article**
+- 🔭 I'm currently working on **My DigitalWhisper article about lowlevel attacks and credentials harvesting will be published at january 31th**
 
 - 🌱 I’m currently learning **Writing kernel mode rootkits and looking forward to learn deeply the XNU kernel(iOS kernel) and EBPF**
 
-- 💬 Ask me about ** any low level attack you'd like to!**
+- 💬 Ask me about **any low level attack you'd like to!**
 
 - 📫 How to reach me **ilaysam00@gmail.com**
 
 - ⚡ Fun fact **I pretty love math and physics too!**
 
+- ⚡ A secret Refernce: **http://www.iquerfsodp9ifjaposdfjhgosurijfaewrwergwea.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
