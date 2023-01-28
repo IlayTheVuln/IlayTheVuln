@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi There 👋, I'm Ilay Samuelov</h1>
-<h3 align="center">A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development</h3>
+<h3 align="center">18 yro from Tel Aviv-Israel.
+A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development</h3>
 
 - 🔭 I'm currently working on **My DigitalWhisper article about lowlevel attacks and credentials harvesting will be published in january 31th**
 
