@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">18 yro from Tel Aviv-Israel.
 A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development</h3>
 
-- 🔭 I'm currently working on **My DigitalWhisper article about lowlevel attacks and credentials harvesting that will be published in january 31th**
+- 🔭 I'm currently working on **My DigitalWhisper article about lowlevel attacks and credentials harvesting that will be published in january 31st**
 
-- 🌱 I’m currently learning **Writing kernel mode rootkits and looking forward to learn deeply the XNU kernel(iOS kernel) and EBPF**
+- 🌱 I’m currently learning **Exploitation of Intel Chips and the XNU Kernel**
 
 - 💬 Ask me about **any low level attack you'd like to!**
 
