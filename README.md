@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">18 yro from Tel Aviv-Israel.
 A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development</h3>
 
-- 🔭 **Checkout my DigitalWhisper article about memory attacks and creds harvesting!!-https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-4-DW147-LSASSCredsHarvesting.pdf
+- 🔭 **Checkout my DigitalWhisper article about memory attacks and creds harvesting!!-https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-4-DW147-LSASSCredsHarvesting.pdf**
 
 - 🌱 I’m currently learning **Exploitation of Intel Chips and the XNU Kernel**
 
