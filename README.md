@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi There 👋, I'm Ilay Samuelov</h1>
 <h3 align="center">18 yro from Tel Aviv-Israel.
-A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development-https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-4-DW147-LSASSCredsHarvesting.pdf</h3>
+A c and assembly lover who is passionate about Osnit research, Vulnerability research, malware analysis, white hat hacking and malware development.Checkout my DigitalWhisper article about memory attacks and creds harvesting!!-https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-4-DW147-LSASSCredsHarvesting.pdf</h3>
 
 - 🔭 **Checkout my DigitalWhisper article about memory attacks and creds harvesting!!-https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-4-DW147-LSASSCredsHarvesting.pdf**
 
