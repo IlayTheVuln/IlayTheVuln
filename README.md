@@ -22,7 +22,7 @@ A c and assembly lover who is passionate about Osnit research, Vulnerability res
 
 - 🔭 **Checkout my DigitalWhisper article about memory attacks and creds harvesting!!-https://www.digitalwhisper.co.il/files/Zines/0x93/DW147-4-DW147-LSASSCredsHarvesting.pdf**
 
-- 🌱 I’m currently learning **Exploitation of Intel Chips and the XNU Kernel**
+- 🌱 I’m currently learning **Exploitation of Intel Chips and writing bootkits. Im looking forward to create my version of the NSA's leaked Air-Gapped malware-BrutalKangaroo**
 
 - 💬 Ask me about **any low level attack you'd like to!**
 
